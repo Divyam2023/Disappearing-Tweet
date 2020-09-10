@@ -6,4 +6,6 @@
 
 3rd Day-09/09/2020 :- Completed the task to store the tweets to redux store and displaying the list of tweets to UI.
 
-4th Day-10/10/2020 :- Started developing the logic to remove a certain tweet at a given time.
+4th Day-10/10/2020 :- Started developing the logic to remove a certain tweet at a given time.  
+
+**Deployed version using heroku was not working ....so deployed using firebase 
